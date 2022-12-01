@@ -1,0 +1,9 @@
+Le travail sur ce Todo nécessite l'installation et l'utilisation du git.
+1- accepter l'invitation envoyer sur google Classroom
+pour avoir l'accès à un repo git contenant le projet et l'énoncé
+2- passer la commande: git clone pour avoir une copie de repository en local
+3- travailler sur le projet dans le repository local
+4- pour envoyer votre code:
+    a- faire un:  git add .
+    b- faire un:  git commit -m "my work done"
+    c-faire un:  git push
